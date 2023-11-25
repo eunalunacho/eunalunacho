@@ -19,4 +19,4 @@ Data Analysist | Data Engineering
 ### 2022
 |기간|활동|내용|
 |:---|:---|:---|
-|03.03 <br> ~ 12.23|<img src="![kuggle](https://github.com/eunalunacho/eunalunacho/assets/132866603/31404032-cd9e-4942-ad1a-d65573be8a9f)"> <br> KUGGLE 6기||
+|03.03 <br> ~ 12.23|<img src="https://github.com/eunalunacho/eunalunacho/assets/132866603/31404032-cd9e-4942-ad1a-d65573be8a9f"> <br> KUGGLE 6기||
