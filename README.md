@@ -1,7 +1,6 @@
 ## Profile
 ### 안녕하세요, 조은아 입니다 👋
 
-Data Analysist | Data Engineering 
 
 - ✏️ Tistory | https://gookid.tistory.com/
 - 📑 Notion Portfolio | 
