@@ -2,7 +2,7 @@
 ### 공부중 👋 
 
 
-- ✏️ Tistory | https://gookid.tistory.com/
+- ✏️ Tistory | 
 - 📑 Notion Portfolio | 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunalunacho&layout=compact)](https://github.com/eunalunacho/github-readme-stats)
