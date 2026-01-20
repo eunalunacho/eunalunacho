@@ -5,8 +5,6 @@
 
 <br>
 
----
-
 ### 🛠 Tech Stack
 
 **Languages**
@@ -40,8 +38,6 @@
 [![Blog](https://img.shields.io/badge/Blog-TIL%20Blog-FF5722?style=for-the-badge&logo=tistory&logoColor=white)](https://eunalunacho.github.io/TIL/)
 
 [![Tistory](https://img.shields.io/badge/Tistory-Tech%20Blog-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://gookid.tistory.com/)
-
----
 
 ### 📊 Github Stats
 
