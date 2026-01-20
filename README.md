@@ -37,7 +37,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/euna-cho-b80707297/)
 
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=tistory&logoColor=white)](https://eunalunacho.github.io/TIL/)
+[![Blog](https://img.shields.io/badge/Blog-TIL%20Blog-FF5722?style=for-the-badge&logo=tistory&logoColor=white)](https://eunalunacho.github.io/TIL/)
 
 [![Tistory](https://img.shields.io/badge/Tistory-Tech%20Blog-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://gookid.tistory.com/)
 
