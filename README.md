@@ -1,8 +1,7 @@
 # Hi there, I'm Euna! 👋
-### 🚀 Data Ops & ML Engineer를 꿈꾸는 개발자
+### 🚀 Data & ML Engineer를 꿈꾸는 개발자
 
-데이터의 흐름을 설계하고, 머신러닝 모델이 안정적으로 서빙될 수 있는 환경을 구축하는 데 관심이 많습니다.
-비효율적인 반복 작업을 자동화하고, 시스템 아키텍처를 개선하는 과정에서 즐거움을 느낍니다.
+데이터의 흐름을 설계하고, 비효율적인 반복 작업을 자동화하는 데에 관심이 많습니다.
 
 <br>
 
@@ -34,20 +33,13 @@
 
 ---
 
-### 🔭 Featured Projects
-
-| 프로젝트명 | 설명 & 기술 스택 | 관련 링크 |
-| :--- | :--- | :--- |
-
-<br>
-
----
-
 ### 📚 Channels
 
-[![Tistory](https://img.shields.io/badge/Tistory-Tech%20Blog-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://gookid.tistory.com/)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/euna-cho-b80707297/)
+
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=tistory&logoColor=white)](https://eunalunacho.github.io/TIL/)
+
+[![Tistory](https://img.shields.io/badge/Tistory-Tech%20Blog-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://gookid.tistory.com/)
 
 ---
 
